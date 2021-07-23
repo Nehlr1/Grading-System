@@ -1,0 +1,6 @@
+               
+                  
+Tameem              password            A18CS4059           tameemturag@gmail.com         Cryptography        A                   3                   
+Nihal               password            SDA                 nihal@gmail.com               Cryptography        A-                  3                   
+Shovon              password            FFD                 shovon@gmail.com              Cryptography        B                   3                   
+Ali                 password            DFRA                ali@gmail.com                 Networking          A-                  3                   
